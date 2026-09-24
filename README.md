@@ -68,7 +68,7 @@ Currently.Building
 
 → Tokenator
 → Monaris / AI MoneyOS
-→ Vara ecosystem
+→ Products on the Vara ecosystem
 → Lucknow DAO
 </pre>
 
