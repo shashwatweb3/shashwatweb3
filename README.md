@@ -62,16 +62,6 @@ Ecosystem           : Vara · Ethereum · Web3
 Focus               : AI · Web3 · Developer Tools
 </pre>
 
-<pre>
-Currently.Building
-──────────────────────────────────────────────
-
-→ Tokenator
-→ Monaris / AI MoneyOS
-→ Products on the Vara ecosystem
-→ Lucknow DAO
-</pre>
-
 </td>
 </tr>
 </table>
