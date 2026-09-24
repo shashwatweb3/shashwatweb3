@@ -1,59 +1,140 @@
-# Shashwat Chauhan
+<div align="center">
+<pre>
+████ █   █  ███   ████ █   █ █   █  ███  █████   
+█ ░░░░█░  █░█ ░░█ █ ░░░░█░  █░█░  █░█ ░░█  ░█░░░  
+ ███░░█████░█████░ ███░░█████░█░█ █░█████░  █░░░░ 
+  ░░█ █░░░█░█░░░█░░ ░░█ █░░░█░██░██░█░░░█░░ █░░   
+████░░█░░░█░█░░░█░████░░█░░░█░█░░ █░█░░░█░░ █░░   
+ ░░░░ ░░░  ░░░░  ░░░░░░ ░░░  ░░░░░ ░░░░  ░░  ░░   
+  ░░░░  ░   ░ ░   ░ ░░░░░  ░   ░ ░   ░ ░   ░   ░  
+</pre>
+</div>
 
-**Software Engineer · Web3 Builder**
+<table>
+<tr>
+<td width="45%" valign="top">
 
-Building products around Web3, AI, developer tools and onchain infrastructure.
+<pre>
+              .-""""-.
+            .'  .--.  '.
+           /   /    \   \
+          |   |  .--. |  |
+          |   | (    )|  |
+          |   |  '--' |  |
+           \   \      /  /
+            '.  '----' .'
+              '-.____.-'
 
-[GitHub](https://github.com/shashwatweb3) · [X](https://x.com/shashwatweb3) · Website
+             ┌───────────┐
+             │  DEVELOPER│
+             └───────────┘
 
----
+        building things onchain
+</pre>
 
-## About
+</td>
 
-I'm a software engineer who spends most of my time on Web3 — smart contracts, token tooling, and products that touch onchain infrastructure. I also work with AI and developer tools, mostly because both make the things I build genuinely useful. I'd rather ship something clean and working than chase clever architecture.
+<td width="55%" valign="top">
 
-## What I Build
+<pre>
+shashwatweb3
+──────────────────────────────────────────────
 
-| Web3 | AI | Developer Tools |
-| --- | --- | --- |
-| Smart contracts, tokens, onchain products. | Practical AI, wired into real products. | Tooling that makes building and shipping easier. |
+OS                  : Developer
+Uptime              : Building since 2020
+Host                : Web3 / Open Source
+Kernel              : JavaScript / Rust / Java
 
-## Currently Building
+Languages.Programming
+                    : Java
+                    : JavaScript
+                    : Rust
+                    : PHP
+                    : SQL
 
-- **Tokenator**
-- **Monaris / AI MoneyOS**
-- **Vara ecosystem**
-- **Lucknow DAO**
+Languages.Frameworks
+                    : React
+                    : Next.js
+                    : Spring Boot
 
-## Tech Stack
+Ecosystem           : Vara · Ethereum · Web3
 
-Java · JavaScript · Rust · SQL · PHP
+Focus               : AI · Web3 · Developer Tools
+</pre>
 
-React · Next.js · Spring Boot
+<pre>
+Currently.Building
+──────────────────────────────────────────────
 
-Vara · Ethereum
+→ Tokenator
+→ Monaris / AI MoneyOS
+→ Vara ecosystem
+→ Lucknow DAO
+</pre>
 
-Git · GitHub
+</td>
+</tr>
+</table>
 
-## Selected Work
+<br>
 
-- [monaris.moment](https://github.com/shashwatweb3/monaris.moment)
-- [Flekvar](https://github.com/shashwatweb3/Flekvar)
-- [varasplit-future-payments](https://github.com/shashwatweb3/varasplit-future-payments)
-- [vara-city-explorer](https://github.com/shashwatweb3/vara-city-explorer)
-- [attest-proof-path](https://github.com/shashwatweb3/attest-proof-path)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## GitHub Activity
+<pre>
+GitHub.Stats
+────────────────────────────
+
+Repositories    : 17
+Stars           : 5
+
+github.com/shashwatweb3
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+<pre>
+Contact
+────────────────────────────
+
+GitHub   : github.com/shashwatweb3
+X        : x.com/shashwatweb3
+Website  : shashwat.fun
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwatweb3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e&icon_color=6e7681" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatweb3&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shashwatweb3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=3fb950"
+    alt="Shashwat's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatweb3&bg_color=0d1117&color=8b949e&line=3fb950&point=8b949e&area=true&hide_border=true" alt="Contribution graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatweb3&bg_color=0d1117&color=8b949e&line=3fb950&point=58a6ff&area=true&hide_border=true"
+    alt="Shashwat's Contribution Graph"
+  />
 </p>
 
-## Connect
+<div align="center">
 
-[GitHub](https://github.com/shashwatweb3) · [X](https://x.com/shashwatweb3) · Website
+<pre>
+──────────────────────────────────────────────────────────────
+
+                SOFTWARE ENGINEER · WEB3 BUILDER
+
+             building products, protocols & tools
+
+──────────────────────────────────────────────────────────────
+</pre>
+
+</div>
